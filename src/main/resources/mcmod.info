@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "DoublerMod",
+    "description": "Increase CPS while using weapons",
+    "version": "${mod_version}",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/a8kj7sea/doublermod",
+    "updateUrl": "",
+    "authorList": ["A8kj7sea"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
